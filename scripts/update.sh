@@ -1,0 +1,2 @@
+cd ~/blog
+git pull
